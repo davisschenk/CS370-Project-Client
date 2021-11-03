@@ -1,2 +1,2 @@
-aioinflux=0.9.0
+influxdb-client==1.23.0
 websockets=10.0
