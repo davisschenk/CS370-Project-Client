@@ -1,2 +1,2 @@
 influxdb-client==1.23.0
-websockets=10.0
+websockets==10.0
